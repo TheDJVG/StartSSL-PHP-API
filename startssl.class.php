@@ -8,7 +8,7 @@
 
 class StartSSL {
 
-    // Change me
+    // Change me * no need to really change this because StartSSL will override everything *
     const OPENSSL_C     = "NL";
     const OPENSSL_ST    = "Noord-Holland";
     const OPENSSL_L     = "Amsterdam";
