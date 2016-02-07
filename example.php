@@ -7,9 +7,9 @@
  */
 require_once("startssl.class.php");
 
-// EXMAPLES //
+// EXAMPLES //
 // Start the StartSSL API, 3rd arg is password for private key and 4th if you want to see logging.
-$startSSL = new StartSSL("crt.pem", "key.pem", NULL, TRUE);
+$startSSL = new StartSSL("crt.pem", "key.pem", NULL, true);
 
 // Requst a new certificate
 // NOTE: This will take care of creating a PK/CSR and verifiying the domains BUT you still need to save your PK somewhere to use it.
