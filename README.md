@@ -13,7 +13,7 @@ PHP Dependencies
 Usage
 -----
 
-Please read [example.php](example.php) for more information about the functions and how to use it.
+Please read [example.php](example.php) for more information about the functions and how to use them.
 
 License
 -------
